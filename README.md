@@ -1,8 +1,8 @@
 ## Me chamo Niverton Farias, e sou Dev. Front-end jr e UX/Ui Designer.
 <div align="center">
   <a href="https://github.com/nivertonfamorim">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=nivertonfamorim&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nivertonfamorim&layout=compact&langs_count=7&theme=dark"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=nivertonfamorim&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nivertonfamorim&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="niverton-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
