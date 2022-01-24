@@ -1,4 +1,4 @@
-## Me chamo Niverton Farias, e sou Dev. Front-end jr e UX/Ui Designer.
+## Me chamo Niverton Farias, e sou Dev. Front-end jr e UX/UI Designer.
 <div align="center">
   <a href="https://github.com/nivertonfamorim">
   <img height="120em" src="https://github-readme-stats.vercel.app/api?username=nivertonfamorim&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
