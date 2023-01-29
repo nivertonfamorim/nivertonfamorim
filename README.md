@@ -1,4 +1,7 @@
-## Me chamo Niverton Farias, e sou Dev. Front-end jr e UX/UI Designer.
+## Me chamo Niverton Farias, e sou UI Designer e Dev Front-end.
+# Olá, me chamo Niverton Farias e sou UI designer com 6 meses de experiência em desenvolvimento de produtos digitais como sites e aplicativos, realizando desde a pesquisa ao protótipo de alta fidelidade e handoff. 
+
+Estou iniciando minha carreira e estou sempre estudando e pondo em prática tudo o que aprendo ou já aprendi. Gosto de mexer com todas as stacks, combinando tudo para chegar no melhor resultado possível.
 <div align="center">
   <a href="https://github.com/nivertonfamorim">
   <img height="120em" src="https://github-readme-stats.vercel.app/api?username=nivertonfamorim&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
