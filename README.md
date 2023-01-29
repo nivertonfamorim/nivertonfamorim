@@ -1,6 +1,6 @@
 # Me chamo Niverton Farias, e sou UI Designer e Dev Front-end.
- Sou UI designer e Dev Front-end com 6 meses de experiência em desenvolvimento de produtos digitais como sites e aplicativos, desenvolvimento Web,  
- realizando desde a pesquisa ao protótipo de alta fidelidade e handoff. 
+ Sou UI designer e Dev Front-end com 6 meses de experiência em desenvolvimento de produtos digitais como sites e aplicativos, 
+ desenvolvimento Web, realizando desde a pesquisa ao protótipo de alta fidelidade e handoff. 
 
 Estou iniciando minha carreira e estou sempre estudando e pondo em prática tudo o que aprendo ou já aprendi. Gosto de mexer com todas as stacks, combinando tudo para chegar no melhor resultado possível.
 <div align="center">
